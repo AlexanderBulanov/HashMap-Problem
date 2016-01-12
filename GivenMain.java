@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class GivenMain {
     static final int ITEMS = 13;
     static final int CAPACITY = (int) (Math.ceil(ITEMS*1.3));
     static HashMap<String,Integer> h = new HashMap<String,Integer>(CAPACITY);
